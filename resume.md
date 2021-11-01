@@ -16,26 +16,26 @@ Experience
 2015-2020
 :   **Asset Manager**; Production Resource Group (Laurel, MD)
 
-As an Asset Manager for Production Resource Group, I was directly responsible for procuring audio, visual, and lighting equipment for live shows and events around the country. Using JIT methodology and propitiatory ERP software, I ensured minimal budget impact from external rental and capex purchases.
+- Directly responsible for procuring audio, visual, and lighting equipment for live shows and events around the country, using JIT methodology and propitiatory ERP software to ensure minimal budget impact from external rental and capex purchases.
 
-- Managed multiple orders with unique requirements on an ongoing basis for clients such as Under Armour, Ernst & Young, Bloomberg, and Baltimore Office of Promotion & The Arts. Fulfilled shortages, negotiate rental pricing, and submitted purchase orders for events while complying with strict show deadlines. Utilized Excel to measure KPIs, and presented successes and areas for improvement to relevant teams.
-
+- Coordinated multiple orders with unique equipment requirements on an ongoing basis for clients such as Under Armour, Ernst & Young, Bloomberg, and Baltimore Office of Promotion & The Arts. Fulfilled shortages, negotiate rental pricing, and submitted purchase orders for assets while complying with strict show deadlines. Utilized Excel to measure KPIs, and presented successes and areas for improvement to relevant teams.
+    
 - Interfaced in person and remotely with multiple internal and external teams including sales, project managers, vendors, logistics, warehouse and corporate office. Headed weekly meetings to align asset goals and challenges with other departments.
-
+    
 - Learned high-level industry concepts and standards, such as signal flow and power distribution; increasing profitability and providing better solutions for overbookings, damaged and missing equipment, and last minute additions.
-
+    
 - Spearheaded local and regional sales and asset integration throughout company’s acquisition of other vendors. Trained incoming corporate employees and provided continual support after onboarding. 
 
 2009-2015
 :   **Preservation and Operations Specialist**; Apple (Columbia, MD)
 
-Individually chosen to fill this pilot program role, I upheld Apple's rigorous expectations for brand standards and acted as an internal expert on store operating standards and facility maintenance.
-
+- Upheld Apple's rigorous expectations for brand standards and acted as an internal expert on store operating standards and facility maintenance.
+    
 - Elevated the employee experience by collecting feedback internally, to better plan store meetings and events, provide appropriate uniforms and other equipment necessary for job function, share best practices and SOP, and address needed maintenance of store fixtures. Advocated for and drove multiple store projects, expansions, and enhancements, including installation of a new HVAC, an expanded breakroom, and additional workspace for mobile device repairs. 
-
+    
 - Deployed and maintained over 300 internal use iPhones, iPads, and Macs.  Tracked physical equipment and reporting discrepancies using internal tools and databases. 
-
-- Created training and reference literature, graphics, newsletters and other media consistent with company style guide. Published daily presentations highlighting employee accomplishments, positive customer feedback, new products, and upcoming store events. 
+    
+- Created training and reference literature, graphics, newsletters and other media consistent with company style guide. Published daily presentations highlighting employee accomplishments, positive customer feedback, new products, and upcoming store events.
 
 :	**Back of House Specialist**
 
@@ -51,7 +51,7 @@ Individually chosen to fill this pilot program role, I upheld Apple's rigorous e
 
 *References available upon request*
 
-Skills *(proficent)*
+Skills 
 ------
 
 * *Operating systems*: Mac, Linux, Windows 7/10
@@ -59,6 +59,13 @@ Skills *(proficent)*
 * *ERP*: SAP, Oracle, Kronos
 * *Other*: HTML, CSS, Javascript, version control (GitHub), Adobe Creative Cloud
 * 60+ WPM
+
+Interests
+---------
+
+* Web and software development
+* Spending time outdoors hiking, camping, bicycling, rock climbing
+* Blockchain and cryptocurrency
 
 Education
 ---------
