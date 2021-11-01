@@ -1,0 +1,77 @@
+---
+# Personal details
+name: Kris M Storck
+address: Baltimore, Maryland
+phone: "+1 410 707 7288"
+email: kmmac89@gmail.com
+
+
+# Sections
+
+intro: "I am a passionate, driven, self-starter who learns fast and aspires to get things done right the first time. My range of previous experiences reflect my capacity to operate under the highest standards with efficiency, accuracy, and composure. I am seeking a role and company where I can continue to grow and utilized these skills."
+
+experience:
+- years: 2015-2020
+  employer: Production Resource Group
+  job: Asset Manager
+  city: Laurel, Maryland
+  accomplishments: 
+    - Directly responsible for procuring audio, visual, and lighting equipment for live shows and events around the country, using JIT methodology and propitiatory ERP software to ensure minimal budget impact from external rental and capex purchases.
+    - Coordinated multiple orders with unique equipment requirements on an ongoing basis for clients such as Under Armour, Ernst & Young, Bloomberg, and Baltimore Office of Promotion & The Arts. Fulfilled shortages, negotiate rental pricing, and submitted purchase orders for assets while complying with strict show deadlines. Utilized Excel to measure KPIs, and presented successes and areas for improvement to relevant teams.
+    - Interfaced in person and remotely with multiple internal and external teams including sales, project managers, vendors, logistics, warehouse and corporate office. Headed weekly meetings to align asset goals and challenges with other departments.
+    - Learned high-level industry concepts and standards, such as signal flow and power distribution; increasing profitability and providing better solutions for overbookings, damaged and missing equipment, and last minute additions.
+    - Spearheaded local and regional sales and asset integration throughout company’s acquisition of other vendors. Trained incoming corporate employees and provided continual support after onboarding. 
+
+- years: 2012-2015
+  employer: Apple
+  job: Preservation & Operations Specialist
+  city: Columbia, Maryland
+  accomplishments:
+    - Upheld Apple's rigorous expectations for brand standards and acted as an internal expert on store operating standards and facility maintenance.
+    - Elevated the employee experience by collecting feedback internally, to better plan store meetings and events, provide appropriate uniforms and other equipment necessary for job function, share best practices and SOP, and address needed maintenance of store fixtures. Advocated for and drove multiple store projects, expansions, and enhancements, including installation of a new HVAC, an expanded breakroom, and additional workspace for mobile device repairs. 
+    - Deployed and maintained over 300 internal use iPhones, iPads, and Macs.  Tracked physical equipment and reporting discrepancies using internal tools and databases. 
+    - Created training and reference literature, graphics, newsletters and other media consistent with company style guide. Published daily presentations highlighting employee accomplishments, positive customer feedback, new products, and upcoming store events.
+
+- years: 2010-2012
+  employer: Apple
+  job: Back of House Specialist
+  city: Columbia, Maryland
+  accomplishments:
+    - Completed daily receiving, sorting, counting, and returning inventory to warehouse. Performed and reported routine cycle counts on between 7,000 and 15,000 individual pieces and reconciled variances while maintaining an average yearly shrink percentage of under .25. 
+    - Led and participated in bi-yearly store physical inventory, increasing accuracy from 94% to 99.7% and significantly reducing individual unit variance. Traveled to other stores and assisted with theirs, acting as a knowledgeable and trustworthy resource.
+    - Maintained store planogram and led visual merchandise team to complete updates, including new product launches such as the iPhone 4 and iPad. Provided additional training for employees on corporate visual standards guide, including hands-on guidance for repair and replacement of demo iPhones, iPads, and Macs. Managed demo equipment database and deployed software updates. 
+
+- years: 2009-2010
+  employer: Apple
+  job: Specialist
+  city: Columbia, Maryland
+  accomplishments:
+   - Delivered great customer experiences, provided solutions and knowledge of Apple’s products, while embodying Apple’s core mission statement in every interaction - creating value, enrichment, and loyalty.
+
+skills:
+- Operating systems - Mac, Linux, Windows 7/10
+- Software - MS Office 365 including Outlook, Word, Powerpoint, and Excel, iWork and GSuite, Airtable
+- ERP - SAP, Oracle, Kronos
+- Other - HTML, CSS, Javascript, version control (GitHub), Adobe Creative Cloud
+- 60+ WPM
+
+interests:
+- Web and software development
+- Spending time outdoors hiking, camping, bicycling, rock climbing
+- Blockchain and cryptocurrency
+
+
+education:
+- year: 2007-2010
+  subject: Graphic Design
+  institute: Howard Community College
+  city: Columbia, Maryland
+
+
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 11pt
+lang: en-GB
+geometry: a4paper, left=23mm, right=27mm, top=19mm, bottom=24mm
+---
