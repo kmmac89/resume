@@ -1,7 +1,13 @@
 Kris M Storck
 =============
 
-<kmmac89@gmail.com> | +1 (410) 707-7288 | Baltimore, Maryland
+[krismstorck.com](https://krismstorck.com)
+
+<kmmac89@me.com> 
+
+ +1 (410) 707-7288 
+ 
+ Baltimore, Maryland
 
 > ### Qualifications profile
 > I am a passionate, driven, self-starter who learns fast and aspires to get 
